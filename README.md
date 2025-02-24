@@ -5,9 +5,9 @@ Vous êtes consultant data analyst en mission dans l’ONG DWFA (Drinking Water 
 
 DWFA présente 3 domaines d’expertise :
 
-1 Création de services d’accès à l’eau potable
-2 Modernisation de services d’accès à l’eau déjà existants
-3 Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau
+1. Création de services d’accès à l’eau potable
+2. Modernisation de services d’accès à l’eau déjà existants
+3. Consulting auprès d’administrations/gouvernements à propos des politiques d’accès à l’eau
 
 L’association a effectué une demande de financement auprès d’un bailleur de fonds en présentant ces 3 domaines d’expertise. 
 
